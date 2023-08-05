@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.tool-bar{
+  margin : 15px;
+}
+.side-bar-styles{
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.actions{
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  align-items: stretch;
+  gap:7rem;
+}
